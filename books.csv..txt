@@ -1,0 +1,11 @@
+BookID,Title,Author,Genre,ISBN,Availability
+1,To Kill a Mockingbird,Harper Lee,Fiction,9780061120084,Available
+2,1984,George Orwell,Dystopian,9780451524935,Borrowed
+3,Pride and Prejudice,Jane Austen,Romance,9780141439518,Available
+4,The Great Gatsby,F. Scott Fitzgerald,Classic,9780743273565,Available
+5,The Catcher in the Rye,J.D. Salinger,Fiction,9780316769488,Borrowed
+6,The Hobbit,J.R.R. Tolkien,Fantasy,9780345339683,Available
+7,Moby Dick,Herman Melville,Adventure,9781503280786,Available
+8,Jane Eyre,Charlotte Bronte,Gothic,9780141441146,Available
+9,Wuthering Heights,Emily Bronte,Gothic,9780141439556,Borrowed
+10,Brave New World,Aldous Huxley,Dystopian,9780060850524,Available
